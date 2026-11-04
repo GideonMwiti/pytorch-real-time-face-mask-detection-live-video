@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+*.pt
+data/raw/
+!outputs/face_mask_detection_report.png
